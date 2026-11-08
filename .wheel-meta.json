@@ -1,0 +1,22 @@
+{
+  "wheel_id": 829,
+  "structure": "umbrella",
+  "slug": "poolretainingwallsbrisbane-109",
+  "project": "pool-retaining-walls-brisbane-council-and-approvals-539f42fdba0",
+  "parent_t1_ref": "poolretainingwallsbrisbane-154",
+  "node_role": "feeder",
+  "money_target": "poolretainingwallsbrisbane.com.au",
+  "primary_kw": "pool retaining walls brisbane council and approvals",
+  "intended_url": "https://sites-e470-2.web.app/pool-retaining-walls-brisbane-council-and-approvals-539f42fdba0/",
+  "tier": "T2",
+  "writeback_nonce": "edaf969910c8d28b",
+  "links": [
+    {
+      "target_url": "https://aumedia.neocities.org/pool-retaining-walls-brisbane-quotes-explained-574ab239a0d9abbc/",
+      "anchor": "more on pool retaining walls brisbane quotes explained",
+      "rel": "follow",
+      "target_type": "cloud",
+      "anchor_type": "partial"
+    }
+  ]
+}
